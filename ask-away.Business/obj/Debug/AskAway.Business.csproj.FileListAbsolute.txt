@@ -1,0 +1,7 @@
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\AskAway\AskAway.Business\obj\Debug\AskAway.Business.csprojResolveAssemblyReference.cache
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\AskAway\AskAway.Business\bin\Debug\AskAway.Business.dll
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\AskAway\AskAway.Business\bin\Debug\AskAway.Business.pdb
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\AskAway\AskAway.Business\bin\Debug\PensionConsultants.Data.dll
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\AskAway\AskAway.Business\bin\Debug\PensionConsultants.Data.pdb
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\AskAway\AskAway.Business\obj\Debug\AskAway.Business.dll
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\AskAway\AskAway.Business\obj\Debug\AskAway.Business.pdb
